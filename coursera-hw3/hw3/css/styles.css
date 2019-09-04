@@ -149,6 +149,7 @@ body {
   margin: 0 auto 35px;
 }
 .friends-list span {
+color: black;
 position: absolute;
 bottom: 0;
 right: 0;
@@ -316,6 +317,18 @@ opacity: 0.9;
   background-color: #faf7b4;
 }
 
+#friendpic {
+  margin-bottom: 30px;
+
+}
+#back-btn{
+ display: block;
+  background-color: #19d1fe;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom:  20px;
+
+}
   
   /**footer styles**/
   .panel-footer {
